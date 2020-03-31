@@ -39,4 +39,4 @@ def getBoxKeys(k):
 
 print(getRowKeys(40))
 print(getColKeys(40))
-print(getBoxKeys(66))
+print(getBoxKeys(40))
